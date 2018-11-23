@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/Jack-n-21/sendIT-final.svg?branch=master)](https://travis-ci.org/Jack-n-21/sendIT-final)
 # sendIT-final
 ## Stack
 - HTML & CSS
