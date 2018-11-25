@@ -1,4 +1,4 @@
-# sendIT-final [![Build Status](https://travis-ci.org/Jack-n-21/sendIT-final.svg?branch=devlop)](https://travis-ci.org/Jack-n-21/sendIT-final) [![Coverage Status](https://coveralls.io/repos/github/Jack-n-21/sendIT-final/badge.svg?branch=devlop)](https://coveralls.io/github/Jack-n-21/sendIT-final?branch=devlop)
+# sendIT-final [![Build Status](https://travis-ci.org/Jack-n-21/sendIT-final.svg?branch=devlop)](https://travis-ci.org/Jack-n-21/sendIT-final) [![Coverage Status](https://coveralls.io/repos/github/Jack-n-21/sendIT-final/badge.svg?branch=devlop)](https://coveralls.io/github/Jack-n-21/sendIT-final?branch=devlop) [![Maintainability](https://api.codeclimate.com/v1/badges/a076a469e09a867c44d0/maintainability)](https://codeclimate.com/github/Jack-n-21/sendIT-final/maintainability)
 ## Stack
 - HTML & CSS
 - Javascript
