@@ -1,4 +1,4 @@
-import users from '../data/userData';
+import users from '../data/userdata';
 
 const userController={
     getUsers(req,res){
