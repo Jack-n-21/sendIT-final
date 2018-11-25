@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.org/Jack-n-21/sendIT-final.svg?branch=master)](https://travis-ci.org/Jack-n-21/sendIT-final)
-# sendIT-final
+# sendIT-final[![Build Status](https://travis-ci.org/Jack-n-21/sendIT-final.svg?branch=devlop)](https://travis-ci.org/Jack-n-21/sendIT-final)
 ## Stack
 - HTML & CSS
 - Javascript
